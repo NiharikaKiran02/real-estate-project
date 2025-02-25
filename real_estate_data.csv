@@ -1,0 +1,6 @@
+ZIP Code,Square Footage,Number of Bedrooms,Number of Bathrooms,Floors,Age of Property,Population Density,Household Income,Average Age,Proximity to Amenities,Crime Rate,Recent Sales Trend,Property Appreciation Rate,Demand-Supply Dynamics,Sale Date,Seasonality,Sale Price
+90210,2500,4,3,2,10,1200,120000,35,1.2,Low,5,2.5,High Demand,2024-01-15,Winter,850000
+10001,1500,3,2,1,20,8000,95000,40,0.8,Moderate,3,1.8,Balanced,2023-12-10,Winter,550000
+30301,3200,5,4,2,5,3000,105000,37,1.5,Low,4,3.2,High Demand,2024-03-05,Spring,1250000
+60614,1800,2,2,1,15,5000,85000,42,0.9,High,2,2.1,Low Demand,2023-11-20,Fall,600000
+98101,2700,4,3,2,8,4000,115000,36,1.1,Moderate,6,2.7,Balanced,2024-02-25,Winter,920000
